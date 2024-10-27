@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "ExpenseTracker",
+    "slug": "c",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "f80391d2-f791-45d5-8d72-b9ea32f6b178"
+      }
+    },
+    "owner": "mahammadmurshid03"
+  },
+  "name": "ExpenseTracker"
+}
